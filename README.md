@@ -1,7 +1,7 @@
 <!-- esto es un comentario-->
 # Práctica 1: Elementos básicos de los lenguajes de programación
 #### El objetivo de esta práctica es identificar los elementos fundamentales de los lenguajes de programación: nombres, objetos, entornos, bloques, alcance, administración de memoria, expresiones, comandos, secuencia, selección, iteración, recursión, subprogramas, y tipos de datos.
-<br>
+<br><br>
 
 **Código:** memory_management.h
 
