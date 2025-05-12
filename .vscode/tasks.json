@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "portafolio/docs/mingw-w64.github.io/fonts",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - portafolio/docs/mingw-w64.github.io/fonts",
+			"detail": "./build.sh"
+		}
+	]
+}
