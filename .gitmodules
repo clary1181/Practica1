@@ -1,3 +1,6 @@
 [submodule "docs/gohugo-theme-ananke"]
 	path = docs/gohugo-theme-ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "Practica2"]
+	path = Practica2
+	url = git@github.com:clary1181/Practica2.git
